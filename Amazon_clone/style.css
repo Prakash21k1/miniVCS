@@ -8,6 +8,8 @@
     height: 60px;
     background-color: #0f1111;
     color: white;
+    display: flex;
+    align-items: center;
 }
 
 .nav-logo{
@@ -28,4 +30,20 @@
 
 .border:hover{
     border: 1px solid white;
+}
+
+
+/* Box 2 */
+
+.del{
+    color: #CCCCCC;
+    font-size: 0.8rem;
+    margin-left: 12px;
+    
+}
+
+.address-icon{
+    display: flex;
+    align-items: center;
+    
 }
